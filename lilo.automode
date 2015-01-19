@@ -112,7 +112,7 @@
     #12) Xcompmgr
     #13) Zathura
     #14) speedtest-cli
-    MISCAPPS="1 3 6 8"
+    MISCAPPS="1 3 4 6 8"
   #}}}
   #DISPLAY MANAGER {{{
     # 1) Elsa
