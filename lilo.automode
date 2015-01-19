@@ -65,7 +65,7 @@
     #10) libffado [Firmware Audio Devices]
     #11) libmtp [Android Devices]
     #12) libraw1394 [IEE1394 Driver]
-    FIRMWARE_OPTIONS="3"
+    FIRMWARE_OPTIONS="3 11 12"
   #}}}
 #}}}
 #DESKTOP ENVIRONMENT|WINDOW MANAGER {{{
@@ -88,14 +88,14 @@
   #KDE {{{
     # 1) Full
     # 2) Minimal
-    KDE_INSTALL="1"
+    KDE_INSTALL=""
     # 1) Apper
     # 2) Choqok
     # 3) Digikam
     # 4) K3b
     # 5) Skrooge
     # 6) Yakuake
-    KDE_OPTIONS="1-6"
+    KDE_OPTIONS=""
   #}}}
   #ESSENTIAL APPS [Enlightenment,LXDE,Awesome,Fluxbox,OpenBox] {{{
     # 1) Display Manager
